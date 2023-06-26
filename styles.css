@@ -1,5 +1,6 @@
 
 .image img {
+	object-fill:cover;
 	width:390px;
 	height:200px;
 }
